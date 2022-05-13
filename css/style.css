@@ -14,12 +14,13 @@ span{
         width: 100% !important;
         padding: 10px !important;
     }
+
     .objetivos{
         width: 100% !important;
-        text-align: center !important;
     }
     img{
         width: 100% !important;
+        padding: 10px !important;
     }
 }
 
