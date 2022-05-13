@@ -12,7 +12,7 @@ span{
 @media (max-width:500px) {
     .container{
         width: 100% !important;
-        padding: 10px;
+        padding: 10px !important;
     }
     .objetivos{
         width: 100% !important;
