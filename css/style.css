@@ -18,5 +18,8 @@ span{
         width: 100% !important;
         text-align: center !important;
     }
+    img{
+        width: 100% !important;
+    }
 }
 
